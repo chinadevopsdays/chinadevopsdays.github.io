@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017北京站 on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/tags/2017%E5%8C%97%E4%BA%AC%E7%AB%99/</link>
+    <description>Recent content in 2017北京站 on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 08 Jun 2018 23:09:32 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/tags/2017%E5%8C%97%E4%BA%AC%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOpsDays中国首站纪实</title>
+      <link>https://chinadevopsdays.org/blog/devopsdays-china-1st/</link>
+      <pubDate>Fri, 08 Jun 2018 23:09:32 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/devopsdays-china-1st/</guid>
+      <description>2017年3月17-18日，DevOpsDays运动首度来到中国。破冰之站DevOpsDays Beijing由国际最佳实践管理联盟和高效运维社区联合主办，参加人数达1200人，是自2009年比利时根特市首站以来人数最多的一次。此站我们也有幸邀请到DevOps之父Patrick Debois 先生。</description>
+    </item>
+    
+    <item>
+      <title>2017 DevOpsDays北京站完整日程【百格】</title>
+      <link>https://chinadevopsdays.org/blog/2017-devopsdays-beijing/</link>
+      <pubDate>Wed, 03 Jan 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/2017-devopsdays-beijing/</guid>
+      <description>[https://www.bagevent.com/event/devopsdays-beijing2017?bag_track=bagevent]</description>
+    </item>
+    
+    <item>
+      <title>中国首届DevOpsDays北京站盛况实录及精彩PPT</title>
+      <link>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</link>
+      <pubDate>Sat, 18 Mar 2017 22:44:51 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</guid>
+      <description>中国的第一次DevOpsDays大会在2017年3月18日在北京召开，这开启了中国大陆DevOps的元年，从此DevOps社区开始生根发芽。</description>
+    </item>
+    
+  </channel>
+</rss>

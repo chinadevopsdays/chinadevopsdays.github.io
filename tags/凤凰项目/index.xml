@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>凤凰项目 on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/tags/%E5%87%A4%E5%87%B0%E9%A1%B9%E7%9B%AE/</link>
+    <description>Recent content in 凤凰项目 on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 06 Jun 2018 06:44:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/tags/%E5%87%A4%E5%87%B0%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>畅销书《凤凰项目》之后-作者对DevOps的深度思考</title>
+      <link>https://chinadevopsdays.org/blog/gene-kim-deep-thinking-about-devops/</link>
+      <pubDate>Wed, 06 Jun 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/gene-kim-deep-thinking-about-devops/</guid>
+      <description>《凤凰项目》是Gene Kim作为主创于2013年出版的一本小说体IT管理读物，是公认的DevOps入门第一本书。这本书从构思到成书花了10多年时间，出版之后获得了巨大的成功。《凤凰项目》颠覆性的意义在于把过去60多年在工业生产领域的最佳实践引入到软件交付的生命周期中。</description>
+    </item>
+    
+  </channel>
+</rss>

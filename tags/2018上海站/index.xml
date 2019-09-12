@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018上海站 on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/tags/2018%E4%B8%8A%E6%B5%B7%E7%AB%99/</link>
+    <description>Recent content in 2018上海站 on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 08 Aug 2018 08:31:06 -0700</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/tags/2018%E4%B8%8A%E6%B5%B7%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018上海大会支持及合办机构</title>
+      <link>https://chinadevopsdays.org/blog/2018-shanghai-sponsors/</link>
+      <pubDate>Wed, 08 Aug 2018 08:31:06 -0700</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/2018-shanghai-sponsors/</guid>
+      <description>感谢三个大会支持机构和一个大会合作机构。</description>
+    </item>
+    
+  </channel>
+</rss>

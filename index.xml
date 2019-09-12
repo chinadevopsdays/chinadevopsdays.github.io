@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/</link>
+    <description>Recent content on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 08 Aug 2018 08:31:06 -0700</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018上海大会支持及合办机构</title>
+      <link>https://chinadevopsdays.org/blog/2018-shanghai-sponsors/</link>
+      <pubDate>Wed, 08 Aug 2018 08:31:06 -0700</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/2018-shanghai-sponsors/</guid>
+      <description>感谢三个大会支持机构和一个大会合作机构。</description>
+    </item>
+    
+    <item>
+      <title>DevOps时代的志愿者精神</title>
+      <link>https://chinadevopsdays.org/blog/best-contribute-vol1/</link>
+      <pubDate>Mon, 30 Jul 2018 19:27:00 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/best-contribute-vol1/</guid>
+      <description>让我们一起向第一波meetup活动中表现突出的志愿者致谢</description>
+    </item>
+    
+    <item>
+      <title>社区Meetup规划</title>
+      <link>https://chinadevopsdays.org/blog/meetup-plan/</link>
+      <pubDate>Tue, 26 Jun 2018 09:08:01 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/meetup-plan/</guid>
+      <description>社区在各地的现实存在是Meetup，DevOpsDays社区计划在全国各城市举办线下聚会，请随时关注本站更新。</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays中国志愿者首次大会会议纪要--6月19日</title>
+      <link>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</link>
+      <pubDate>Wed, 20 Jun 2018 14:08:33 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</guid>
+      <description>DevOpsDays中国志愿者首次大会会议纪要&amp;ndash;6月19日</description>
+    </item>
+    
+    <item>
+      <title>第一次社区会议-演示投稿文章标题</title>
+      <link>https://chinadevopsdays.org/blog/my-new-post-title/</link>
+      <pubDate>Tue, 19 Jun 2018 17:00:49 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/my-new-post-title/</guid>
+      <description>文章摘要是一句话的概要说明，让读者了解这篇文章。</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays中国首站纪实</title>
+      <link>https://chinadevopsdays.org/blog/devopsdays-china-1st/</link>
+      <pubDate>Fri, 08 Jun 2018 23:09:32 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/devopsdays-china-1st/</guid>
+      <description>2017年3月17-18日，DevOpsDays运动首度来到中国。破冰之站DevOpsDays Beijing由国际最佳实践管理联盟和高效运维社区联合主办，参加人数达1200人，是自2009年比利时根特市首站以来人数最多的一次。此站我们也有幸邀请到DevOps之父Patrick Debois 先生。</description>
+    </item>
+    
+    <item>
+      <title>畅销书《凤凰项目》之后-作者对DevOps的深度思考</title>
+      <link>https://chinadevopsdays.org/blog/gene-kim-deep-thinking-about-devops/</link>
+      <pubDate>Wed, 06 Jun 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/gene-kim-deep-thinking-about-devops/</guid>
+      <description>《凤凰项目》是Gene Kim作为主创于2013年出版的一本小说体IT管理读物，是公认的DevOps入门第一本书。这本书从构思到成书花了10多年时间，出版之后获得了巨大的成功。《凤凰项目》颠覆性的意义在于把过去60多年在工业生产领域的最佳实践引入到软件交付的生命周期中。</description>
+    </item>
+    
+    <item>
+      <title>北京站大会迎来首批赞助商</title>
+      <link>https://chinadevopsdays.org/blog/beijing-conference-first-sponsors/</link>
+      <pubDate>Tue, 03 Apr 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/beijing-conference-first-sponsors/</guid>
+      <description>我们非常兴奋的宣布今年的首批赞助商名单，DevOpsDays中国社区感谢你们的大力支持。让我们共同推动中国的DevOps运动的发展。</description>
+    </item>
+    
+    <item>
+      <title>招募社区志愿者的通知</title>
+      <link>https://chinadevopsdays.org/blog/recruit-volunteers/</link>
+      <pubDate>Wed, 28 Mar 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/recruit-volunteers/</guid>
+      <description>社区知道思想：中国DevOpsDays的核心组织者们紧紧地围绕着加速经验分享、知识传播和实践推广的工作目标，以提升和优化IT行业的素质和文化为主线。</description>
+    </item>
+    
+    <item>
+      <title>2017 DevOpsDays上海站完整日程【百格】</title>
+      <link>https://chinadevopsdays.org/blog/2017-devopsdays-shanghai/</link>
+      <pubDate>Wed, 03 Jan 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/2017-devopsdays-shanghai/</guid>
+      <description>https://www.bagevent.com/event/510260?bag_track=bagevent</description>
+    </item>
+    
+    <item>
+      <title>2017 DevOpsDays北京站完整日程【百格】</title>
+      <link>https://chinadevopsdays.org/blog/2017-devopsdays-beijing/</link>
+      <pubDate>Wed, 03 Jan 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/2017-devopsdays-beijing/</guid>
+      <description>[https://www.bagevent.com/event/devopsdays-beijing2017?bag_track=bagevent]</description>
+    </item>
+    
+    <item>
+      <title>中国首届DevOpsDays北京站盛况实录及精彩PPT</title>
+      <link>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</link>
+      <pubDate>Sat, 18 Mar 2017 22:44:51 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</guid>
+      <description>中国的第一次DevOpsDays大会在2017年3月18日在北京召开，这开启了中国大陆DevOps的元年，从此DevOps社区开始生根发芽。</description>
+    </item>
+    
+    <item>
+      <title>关于中国DevOps社区</title>
+      <link>https://chinadevopsdays.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/about/</guid>
+      <description>国际DEVOPSDAYS大会的历史 DevOpsDays大会是全球范围的系列技术会议品牌。会议内容涵盖了软件开发、运维和它们之间的交集。通常包括精益、敏捷、自动化、测试、安全、持续交付、持续集成、组织文化等主题。“DevOps”这个词作为术语正式流行起来，正是始于2009年在比利时根特市所举行的首届DevOpsDays大会。从此以后，DevOpsDays系列会议和活动在全球范围内逐渐崛起并传播开来，它极大的带动了全球IT从业人员对DevOps相关实践、文化和理念的学习和交流热情。
+国际官网：https://www.devopsdays.org/
+中国DEVOPS社区的历史 2017年中国DevOps社区在中国大陆引入了国际DevOpsDays大会，于2017年3月18日在北京举办了中国大陆的首届大会。中国DevOps社区隶属于DevOpsDays.org国际核心组织，是中国大陆各个城市的DevOpsDays大会的指定承办组织。中国DevOps社区立足于分布各个城市的当地DevOps社区，在不同的城市由当地社区成员自发组织。DevOpsDays大会以实在有料的实践经验主题分享与探讨为核心，服务于广大的DevOps相关人员。它秉承了独有Open Space开放空间的切磋型交流模式，倡导相互学习和共同进步。中国DevOps社区是一个学习交流的平台，欢迎各界实践者参与演讲、讨论和会议活动。
+DEVOPS MEETUP聚会 中国DevOps社区不仅在北京、上海和深圳等城市举办年度DevOpsDays大会；社区的核心组织者也同全国各城市的当地社区组织者保持着紧密的协作，将线下的Meetup聚会活动推向了常态化，并在各个城市定期举办。从2018年7月22日的第一届北京/上海(双城同一天同时进行)线下Meetup聚会以来，截止到2018年底，社区已经成功的在13个城市，举办了22次Meetup活动；于此同时，社区也成功的举办了7次线上的主题分享活动。
+参加一个发生在你身边的Meetup https://www.hdb.com/u/bqaf3u.html
+中国DEVOPS社区现状 中国DevOps社区，由核心组织者们持续的支持和推动着全国各地的社区活动。社区人群构成呈现了明显的多层结构，自内向外依次是 9名全国核心组织者，20多名城市社区组织者，300多名来自全国各地的社区注册志愿者，数千人规模的全国社区参与者，来自于全国一千多家各行各业的企业；支持和赞助社区的厂商达数十家。2019年将是中国DevOps社区蓬勃发展的一年，本着专业、开放和使命感的价值观，社区向各种类型的企业开放，欢迎全国各界企事业单位都积极参与DevOps社区的活动，早日通过应用DevOps实践来加速推进企业数字化转型，在社区里分享这个全球范围内所共识的最佳实践。</description>
+    </item>
+    
+    <item>
+      <title>分享和演讲机会</title>
+      <link>https://chinadevopsdays.org/speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/speaking/</guid>
+      <description>国内的DevOpsDays大会 可以通过国内各个城市举办的DevOpsDays大会上的演讲者参与流程申请参与演讲。各城市的演讲的机会都是开放。
+国内的DevOps Meetup 参考本网站的活动更新页面，自行联系各城市的DevOps Meetup线下交流分享活动的组织者，或者由本站做推荐。
+国外的DevOpsDays 联系去国外其它城市的DevOpsDays大会演讲和分享的机会，演讲的同时也学习其它国家的DevOps实践经验。
+DevOps社区演讲大使 虚席以待。</description>
+    </item>
+    
+    <item>
+      <title>参与社区</title>
+      <link>https://chinadevopsdays.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/contact/</guid>
+      <description>社区志愿者报 指导思想 随着DevOpsDays大会和相关活动在国内的深入开展，目前国内的IT领域里正掀起了一场关于技术、文化和管理的“DevOps运动”。
+中国DevOpsDays的核心组织者们紧紧地围绕着加速经验分享、知识传播和实践推广的工作目标，以提升和优化IT行业的素质和文化为主线。本着“平等、分享、互助和进步”的社区精神，号召大家积极地参与到DevOps社区志愿者服务中来。
+志愿者招募对象：来自全国各个城市，对DevOps的由来和历史有初步的了解，有分享精神，能在线上或线下的各种社区活动里以社区推广大使身份参与并与社区互动。
+社区活动内容 以下是社区活动内容的征询稿，希望以后会逐步完善，希望下列各种类的活动能在全国各个城市的线上和线下蓬勃开展。
+A1-DevOps经验分享/读书会 以任一志愿者，或者几个志愿者的自组织团队为单位，发起组织，并开展和实施线上和线下的小型分享会，活动时间是1小时到3小时。志愿者们负责识别和提议分享主题和分享人。推广和宣传活动信息。推荐和识别所需的场地（针对线下活动）。参与报名、签到、反馈收集和分析等活动。事后回顾总结，计划后期活动。
+A2-DevOps MeetUp 以城市为单位，由城市的主要负责人（由社区推举）发起，定期的举办DevOps社区MeetUp活动。志愿者们负责参与活动的计划，活动的推广，分享主题征集，活动日程安排，人员报名、签到和反馈收集和分析等活动。活动时间可以是周末半天/全天，或者下班以后时段，时间长度4小时以上，不包含日程结束之后的自由社交时间。推荐和识别所需要的场地和赞助商。
+A3-DevOpsDays大会 协助和配合大会组委会，参与大会的运作，推广大会日程，参与大会的各种会务工作。在大会的过程中积极的和与会者互动，共同营造和谐良好的DevOps社区氛围。
+参与报名 请点击下方链接，注册报名，或者扫码填表。
+http://devopsdays-volunteer.mikecrm.com/RuTI3X9</description>
+    </item>
+    
+    <item>
+      <title>支持和赞助中国DevOpsDays社区</title>
+      <link>https://chinadevopsdays.org/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/sponsor/</guid>
+      <description> 会议赞助  白金赞助方 ：数量2家 金牌赞助方：数量10家 银牌赞助方：数量10家  其他赞助形式 场地赞助 社区在各个城市都定期举办线下的meetup活动，目前各个城市的场地赞助情况如下：
+ 北京：  中关村e世界财富中心联合工社-P2·游乐园 望京HPE办公室 （望京）  成都：ThroughWorks 办公室（成都市高新区天府大道中段1268号天府软件园E区1栋） 武汉：ThroughWorks 办公室（武汉市洪山区关山大道332号保利国际中心20层） 西安：ThroughWorks 办公室（陕西省西安市高新区天谷八路211号环普科技产业园E座） 深圳：小赢理财 福州：华为创新中心(福州市鼓楼区福州软件园D区1号楼) 大连：华为创新中心(高新区火炬路集电大厦23楼) 杭州：华为创新中心(北部软件园) 青岛：华为创新中心(青岛高新区汇智桥路151号中科研发城A3号楼)  </description>
+    </item>
+    
+    <item>
+      <title>社区的大会和活动</title>
+      <link>https://chinadevopsdays.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/events/</guid>
+      <description> 2019 DevOpsDays 上海站 2019年12月6-8日， DevOpsDays 上海站 即将盛大开幕。
+CFP-提交分享主题 进行中，详情请点击链接：http://dom-club.mikecrm.com/f7E5fFt
+2019 DevOpsDays 北京站 已胜利闭幕。更多主题分享，演讲文字，请查询DevOpsDays官方微信公众号。
+历届演讲文档下载，点击链接：
+ 链接: https://pan.baidu.com/s/18VV6w2q_s8zYVq3dWat3Zw 提取码：lu6x  </description>
+    </item>
+    
+    <item>
+      <title>社区的组织形式</title>
+      <link>https://chinadevopsdays.org/organizing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chinadevopsdays.org/organizing/</guid>
+      <description>总体组织形式 核心组织者 DevOps社区志愿者 DevOpsDays官网的页面 https://www.devopsdays.org/events/2018-shanghai/contact/</description>
+    </item>
+    
+  </channel>
+</rss>

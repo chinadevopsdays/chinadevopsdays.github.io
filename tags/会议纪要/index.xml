@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>会议纪要 on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/tags/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81/</link>
+    <description>Recent content in 会议纪要 on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 20 Jun 2018 14:08:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/tags/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOpsDays中国志愿者首次大会会议纪要--6月19日</title>
+      <link>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</link>
+      <pubDate>Wed, 20 Jun 2018 14:08:33 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</guid>
+      <description>DevOpsDays中国志愿者首次大会会议纪要&amp;ndash;6月19日</description>
+    </item>
+    
+  </channel>
+</rss>

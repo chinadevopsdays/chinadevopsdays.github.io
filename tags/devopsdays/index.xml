@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOpsDays on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/tags/devopsdays/</link>
+    <description>Recent content in DevOpsDays on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 18 Mar 2017 22:44:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/tags/devopsdays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>中国首届DevOpsDays北京站盛况实录及精彩PPT</title>
+      <link>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</link>
+      <pubDate>Sat, 18 Mar 2017 22:44:51 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/the-first-devops-days-in-china/</guid>
+      <description>中国的第一次DevOpsDays大会在2017年3月18日在北京召开，这开启了中国大陆DevOps的元年，从此DevOps社区开始生根发芽。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社区 on 中国DevOpsDays社区</title>
+    <link>https://chinadevopsdays.org/categories/%E7%A4%BE%E5%8C%BA/</link>
+    <description>Recent content in 社区 on 中国DevOpsDays社区</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 30 Jul 2018 19:27:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinadevopsdays.org/categories/%E7%A4%BE%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOps时代的志愿者精神</title>
+      <link>https://chinadevopsdays.org/blog/best-contribute-vol1/</link>
+      <pubDate>Mon, 30 Jul 2018 19:27:00 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/best-contribute-vol1/</guid>
+      <description>让我们一起向第一波meetup活动中表现突出的志愿者致谢</description>
+    </item>
+    
+    <item>
+      <title>社区Meetup规划</title>
+      <link>https://chinadevopsdays.org/blog/meetup-plan/</link>
+      <pubDate>Tue, 26 Jun 2018 09:08:01 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/meetup-plan/</guid>
+      <description>社区在各地的现实存在是Meetup，DevOpsDays社区计划在全国各城市举办线下聚会，请随时关注本站更新。</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays中国志愿者首次大会会议纪要--6月19日</title>
+      <link>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</link>
+      <pubDate>Wed, 20 Jun 2018 14:08:33 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/summary-at-1st-community-meeting/</guid>
+      <description>DevOpsDays中国志愿者首次大会会议纪要&amp;ndash;6月19日</description>
+    </item>
+    
+    <item>
+      <title>招募社区志愿者的通知</title>
+      <link>https://chinadevopsdays.org/blog/recruit-volunteers/</link>
+      <pubDate>Wed, 28 Mar 2018 06:44:46 +0800</pubDate>
+      
+      <guid>https://chinadevopsdays.org/blog/recruit-volunteers/</guid>
+      <description>社区知道思想：中国DevOpsDays的核心组织者们紧紧地围绕着加速经验分享、知识传播和实践推广的工作目标，以提升和优化IT行业的素质和文化为主线。</description>
+    </item>
+    
+  </channel>
+</rss>
